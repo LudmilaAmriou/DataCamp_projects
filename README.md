@@ -21,3 +21,9 @@ A great exemple on **text mining and sentiment analysis with R**. The dataset is
 
 ## Sixth project: Extract Stock Sentiment from News Headlines
 In the notebook, we will generate investing insight by applying sentiment analysis on financial news headlines from FINVIZ.com (Web scrapping). Using NLP (NLTK), we can **understand the emotion behind the headlines and predict whether the market feels good or bad about a stock**.
+
+
+## Seventh project: Naïve Bees: Predict Species from Images
+In the notebook, we will build a model that can automatically detect honey bees and bumble bees in images. 
+The purpose of this project is to see a real application of **SVM (SVC) in classification** and learn how to preprocess data: images from A to Z (grey scaling, normalizing, flattening... etc) + PCA.
+
