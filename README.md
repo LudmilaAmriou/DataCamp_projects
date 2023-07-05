@@ -17,3 +17,7 @@ As the name of the project says, the notebook will use the **ggplot2 library of 
 
 ## Fifth project: A Text Analysis of Trump's Tweets 
 A great exemple on **text mining and sentiment analysis with R**. The dataset is from The Trump Twitter Archive by Brendan Brown, which contains all 35,000+ tweets from the @realDonaldTrump Twitter account from 2009 (the year Trump tweeted for first time) through 2018. We'll filter it for the election period only, June 1, 2015 through November 8, 2016.
+
+
+## Sixth project: Extract Stock Sentiment from News Headlines
+In the notebook, we will generate investing insight by applying sentiment analysis on financial news headlines from FINVIZ.com (Web scrapping). Using NLP (NLTK), we can **understand the emotion behind the headlines and predict whether the market feels good or bad about a stock**.
