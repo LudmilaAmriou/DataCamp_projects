@@ -13,3 +13,7 @@ This notebook will use pandas and Bayesian statistics to analyze the probability
 
 ## Forth project:  Draw Flowers Using Mathematics
 As the name of the project says, the notebook will use the **ggplot2 library of R** to draw mathematical functions such as sin and cos and form flowers.
+
+
+## Fifth project: A Text Analysis of Trump's Tweets 
+A great exemple on **text mining and sentiment analysis with R**. The dataset is from The Trump Twitter Archive by Brendan Brown, which contains all 35,000+ tweets from the @realDonaldTrump Twitter account from 2009 (the year Trump tweeted for first time) through 2018. We'll filter it for the election period only, June 1, 2015 through November 8, 2016.
