@@ -27,3 +27,7 @@ In the notebook, we will generate investing insight by applying sentiment analys
 In the notebook, we will build a model that can automatically detect honey bees and bumble bees in images. 
 The purpose of this project is to see a real application of **SVM (SVC) in classification** and learn how to preprocess data: images from A to Z (grey scaling, normalizing, flattening... etc) + PCA.
 
+
+## Eighth project: Data Science for Social Good: Crime Study
+In the notebook, we will explore San Francisco crime data in order to understand the relationship between civilian-reported incidents of crime and police-reported incidents of crime. Along the way we will use table intersection methods to subset our data, aggregation methods to calculate important statistics, and simple visualizations to understand crime trends with **R**. 
+
