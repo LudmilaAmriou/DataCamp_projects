@@ -31,3 +31,9 @@ The purpose of this project is to see a real application of **SVM (SVC) in class
 ## Eighth project: Data Science for Social Good: Crime Study
 In the notebook, we will explore San Francisco crime data in order to understand the relationship between civilian-reported incidents of crime and police-reported incidents of crime. Along the way we will use table intersection methods to subset our data, aggregation methods to calculate important statistics, and simple visualizations to understand crime trends with **R**. 
 
+
+## Ninth project: Name Game: Gender Prediction using Sound
+Analyze the gender distribution of children's book writers and use sound to match names to gender with Python using **fuzzy name matching.**
+The same name can be spelled out in a many ways (for example, Marc and Mark, or Elizabeth and Elisabeth). Sound can, therefore, be a better way to match names than spelling. In the project, we will find out the genders of authors that have appeared in the New York Times Best Seller list for Children's Picture books. 
+
+
