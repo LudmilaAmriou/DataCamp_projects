@@ -37,3 +37,8 @@ Analyze the gender distribution of children's book writers and use sound to matc
 The same name can be spelled out in a many ways (for example, Marc and Mark, or Elizabeth and Elisabeth). Sound can, therefore, be a better way to match names than spelling. In the project, we will find out the genders of authors that have appeared in the New York Times Best Seller list for Children's Picture books. 
 
 
+## Tenth project: Wrangling and Visualizing Musical Data
+Wrangle and visualize musical data to find common chords and compare the styles of different artists using **R**
+Apply data-wrangling and visualization tools from the tidyverse to musical data. Find the most common chords and chord progressions in a sample of pop/rock music from the 1950s-1990s, and compare the styles of different artists.
+We will see the use of standard TidyVerse tools for R, in particular the tibble data structure and the dplyr and ggplot2
+
