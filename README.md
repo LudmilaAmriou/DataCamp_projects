@@ -44,6 +44,5 @@ We will see the use of standard TidyVerse tools for R, in particular the tibble 
 
 
 ## 11th project: ASL Recognition with Deep Learning
-In this project, we will train a **convolutional neural network** to **classify** images of ASL letters (A, B, C only). After loading, examining, and preprocessing the data, we will train a really simple neural network and test its performance.
-We will practice the skills from Introduction to Deep Learning in Python and Image Processing with Keras in Python, including building convolutional neural networks to classify images.
+
 
