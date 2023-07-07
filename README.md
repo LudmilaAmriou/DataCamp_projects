@@ -42,3 +42,8 @@ Wrangle and visualize musical data to find common chords and compare the styles 
 Apply data-wrangling and visualization tools from the tidyverse to musical data. Find the most common chords and chord progressions in a sample of pop/rock music from the 1950s-1990s, and compare the styles of different artists.
 We will see the use of standard TidyVerse tools for R, in particular the tibble data structure and the dplyr and ggplot2
 
+
+## 11th project: ASL Recognition with Deep Learning
+In this project, we will train a **convolutional neural network** to **classify** images of ASL letters (A, B, C only). After loading, examining, and preprocessing the data, we will train a really simple neural network and test its performance.
+We will practice the skills from Introduction to Deep Learning in Python and Image Processing with Keras in Python, including building convolutional neural networks to classify images.
+
