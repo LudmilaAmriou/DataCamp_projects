@@ -58,3 +58,9 @@ This project is the third part of a series of projects that walk through working
 ## 13th project: Arctic Penguin Exploration: Unraveling Clusters in the Icy Domain with K-means clustering
 Unsupervised learning is a critical task in machine learning, and it plays a significant role in this project. The objective is to delve into the information about penguins by utilizing **unsupervised learning techniques** on a thoughtfully curated dataset. By conducting thorough data exploration, extracting meaningful features, and employing advanced algorithms, this project aims to uncover concealed patterns, clusters, and relationships that exist within the dataset.
 I have already implemented a K-means model using **R** but Python is more Fun!
+
+
+## 14th project: Predict Taxi Fares with Random Forests
+In this project, we will use regression trees and random forests to find places where New York taxi drivers earn the most with **R**.
+We will get to work with the data from a large number of taxi journeys in New York from 2013 and use regression trees and random forests to predict the value of fares and tips, based on location, date and time. While not required, it can help to have some extended experience with the packages dplyr, ggplot2 and randomForests.
+The dataset used in this project is a sample from the complete 2013 NYC taxi data, which was originally obtained and published by Chris Whong. 
