@@ -54,3 +54,7 @@ I really loved this project, it gives a great understanding about how CNNs work.
 We  will use keras, scikit-learn, scikit-image, and numpy, among other popular Python libraries.
 This project is the third part of a series of projects that walk through working with image data, building classifiers using traditional techniques, and leveraging the power of deep learning for computer vision.
 
+
+## 13th project: Arctic Penguin Exploration: Unraveling Clusters in the Icy Domain with K-means clustering
+Unsupervised learning is a critical task in machine learning, and it plays a significant role in this project. The objective is to delve into the information about penguins by utilizing **unsupervised learning techniques** on a thoughtfully curated dataset. By conducting thorough data exploration, extracting meaningful features, and employing advanced algorithms, this project aims to uncover concealed patterns, clusters, and relationships that exist within the dataset.
+I have already implemented a K-means model using **R** but Python is more Fun!
