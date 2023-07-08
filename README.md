@@ -47,3 +47,10 @@ We will see the use of standard TidyVerse tools for R, in particular the tibble 
 In this project, we will train a **convolutional neural network** to **classify** images of ASL letters (A, B, C only). After loading, examining, and preprocessing the data, we will train a really simple neural network and test its performance.
 We will practice the skills from Introduction to Deep Learning in Python and Image Processing with Keras in Python, including building convolutional neural networks to classify images.
 
+
+## 12th project: Naïve Bees: Deep Learning with Images
+We have already seen this project earlier in the seven project using SVM but this time we are building **a deep learning model (CNNs)** that can automatically detect honey bees and bumble bees in images! 
+I really loved this project, it gives a great understanding about how CNNs work...
+We  will use keras, scikit-learn, scikit-image, and numpy, among other popular Python libraries.
+This project is the third part of a series of projects that walk through working with image data, building classifiers using traditional techniques, and leveraging the power of deep learning for computer vision.
+
