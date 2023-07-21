@@ -63,4 +63,10 @@ I have already implemented a K-means model using **R** but Python is more Fun!
 ## 14th project: Predict Taxi Fares with Random Forests
 In this project, we will use regression trees and random forests to find places where New York taxi drivers earn the most with **R**.
 We will get to work with the data from a large number of taxi journeys in New York from 2013 and use regression trees and random forests to predict the value of fares and tips, based on location, date and time. While not required, it can help to have some extended experience with the packages dplyr, ggplot2 and randomForests.
-The dataset used in this project is a sample from the complete 2013 NYC taxi data, which was originally obtained and published by Chris Whong. 
+The dataset used in this project is a sample from the complete 2013 NYC taxi data, which was originally obtained and published by Chris Whong.
+
+
+## 15th project: Real-time Insights from Social Media Data
+Through this project we will learn to analyze Twitter data and do a deep dive into a hot trend.
+In particular, we will do a thorough **analysis of a hot-trend using Python** !
+ Data from Twitter-storms is available in near real-time. This means we can learn about the big waves of thoughts and moods around the world as they arise. So of course, we are not going to miss the chance to analyze this treasure trove.
