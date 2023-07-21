@@ -70,3 +70,10 @@ The dataset used in this project is a sample from the complete 2013 NYC taxi dat
 Through this project we will learn to analyze Twitter data and do a deep dive into a hot trend.
 In particular, we will do a thorough **analysis of a hot-trend using Python** !
  Data from Twitter-storms is available in near real-time. This means we can learn about the big waves of thoughts and moods around the world as they arise. So of course, we are not going to miss the chance to analyze this treasure trove.
+ 
+ 
+## 16th project: Generating Keywords for Google Ads
+We will learn along this project how to **automatically generate keywords for a search engine marketing campaign using Python**.
+We will focus on manipulating Dataframes ! We are mainly tasked with creating a prototype set of keywords for search campaigns for their sofas section.
+The most important task in structuring a search engine marketing account is **mapping the right keywords to the right ads** and making sure they send users to the right landing pages.
+ 
