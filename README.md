@@ -77,3 +77,7 @@ We will learn along this project how to **automatically generate keywords for a 
 We will focus on manipulating Dataframes ! We are mainly tasked with creating a prototype set of keywords for search campaigns for their sofas section.
 The most important task in structuring a search engine marketing account is **mapping the right keywords to the right ads** and making sure they send users to the right landing pages.
  
+ 
+## 17th project: Visualizing COVID-19
+In this notebook, we will visualize COVID-19 data from the first several weeks of the outbreak to see at what point this virus became a global pandemic and visualize the rise of COVID-19 cases globally with **ggplot2 with R**
+The frames we will be seeing are:  **dplyr and ggplot2**, thus we will read many datasets, manipulate them and visualize the results with different plots.
