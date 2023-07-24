@@ -81,3 +81,8 @@ The most important task in structuring a search engine marketing account is **ma
 ## 17th project: Visualizing COVID-19
 In this notebook, we will visualize COVID-19 data from the first several weeks of the outbreak to see at what point this virus became a global pandemic and visualize the rise of COVID-19 cases globally with **ggplot2 with R**
 The frames we will be seeing are:  **dplyr and ggplot2**, thus we will read many datasets, manipulate them and visualize the results with different plots.
+
+
+## 18th project: Who's Tweeting? Trump or Trudeau?
+In this notebook, we will build a machine learning classifier that knows whether President Trump or Prime Minister Trudeau is tweeting using **Python**, we will choose between **two vectorizations: TFIDF and COUNT with Naive Bayes ** compare the results and then use ** TFIDF vectorization along with Linear SVM ** and finally compare between the two machine learning algorithms ** Linear SVC VS Naive Bayes ** 
+To sum up, we'll take a look at classifying two prominent North American politicians using different approaches and compare them with ** the accuracy metric and confusion matrix analysis **. Can we determine if it is Donald Trump or Justin Trudeau based on just a tweet? Let's see! 
