@@ -86,3 +86,12 @@ The frames we will be seeing are:  **dplyr and ggplot2**, thus we will read many
 ## 18th project: Who's Tweeting? Trump or Trudeau?
 In this notebook, we will build a machine learning classifier that knows whether President Trump or Prime Minister Trudeau is tweeting using **Python**, we will choose between **two vectorizations: TFIDF and COUNT with Naive Bayes ** compare the results and then use ** TFIDF vectorization along with Linear SVM ** and finally compare between the two machine learning algorithms ** Linear SVC VS Naive Bayes ** 
 To sum up, we'll take a look at classifying two prominent North American politicians using different approaches and compare them with ** the accuracy metric and confusion matrix analysis **. Can we determine if it is Donald Trump or Justin Trudeau based on just a tweet? Let's see! 
+
+
+## 19th project: Predicting Credit Card Approvals
+In this project, we will build an automatic credit card approval predictor using **machine learning techniques with python sklearn**, just like the real banks do.
+The dataset used in this project is the **Credit Card Approval** dataset from the UCI Machine Learning Repository.
+We will go step by step and tackle the most important steps in structuring a machine learning solution : 
+We will analyze the dataset, handle the missing values, pre-process our data by converting the non-numeric data into numeric and scaling the feature values to a uniform range (0-1), we will then apply a machine learning algorithm (Logistic Regression). 
+Finally, find the best performing model by performing grid search and cross-validation of five folds. 
+We'll end the notebook by storing the best-achieved score and the respective best parameters.
