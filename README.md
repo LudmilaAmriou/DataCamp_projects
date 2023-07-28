@@ -103,3 +103,13 @@ For that, a familiarity with Python and pandas is required to complete this Proj
 The techniques used here to handle large amounts of data can be applied to other text datasets as well.
 Along the project, we will load and prepare our dataset, preprocess the text data, draw **a wordcloud** to visualize the data and then analyze the trends using **LDA: latent Dirichlet allocation** which has the aim to **find topics a document belongs to, based on the words in it.**
 he techniques used here to handle large amounts of data can be applied to other text datasets as well.
+
+
+## 21st project: Exploring the Evolution of Linux
+In this notebook, we will analyze the evolution of a very famous open-source project – the Linux kernel. The Linux kernel is the heart of some Linux distributions like Debian, Ubuntu or CentOS. Our dataset at hand contains the history of kernel development of almost 13 years (early 2005 - late 2017). We get some insights into the work of the development efforts by:
+
+* identifying the TOP 10 contributors.
+* visualizing the commits over the years.
+
+For this Project, we need to be familiar with **Pandas DataFrames, especially the read_csv and groupby functions, as well as working with time series data**. 
+
