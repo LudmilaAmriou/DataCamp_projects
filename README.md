@@ -95,3 +95,11 @@ We will go step by step and tackle the most important steps in structuring a mac
 We will analyze the dataset, handle the missing values, pre-process our data by converting the non-numeric data into numeric and scaling the feature values to a uniform range (0-1), we will then apply a machine learning algorithm (Logistic Regression). 
 Finally, find the best performing model by performing grid search and cross-validation of five folds. 
 We'll end the notebook by storing the best-achieved score and the respective best parameters.
+
+
+## 20th project: The Hottest Topics in Machine Learning
+In this following notebook, we will use Natural Language Processing on NIPS papers to uncover **the trendiest topics in machine learning research**.
+For that, a familiarity with Python and pandas is required to complete this Project, as well as experience with Natural Language Processing in Python (sklearn specifically).
+The techniques used here to handle large amounts of data can be applied to other text datasets as well.
+Along the project, we will load and prepare our dataset, preprocess the text data, draw **a wordcloud** to visualize the data and then analyze the trends using **LDA: latent Dirichlet allocation** which has the aim to **find topics a document belongs to, based on the words in it.**
+he techniques used here to handle large amounts of data can be applied to other text datasets as well.
