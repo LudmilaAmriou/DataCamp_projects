@@ -115,6 +115,10 @@ For this Project, we need to be familiar with **Pandas DataFrames, especially th
 
 
 ## 22nd project: Exploring the History of Lego
-In the notebook, we will use a *variety of data manipulation techniques** to explore different aspects of Lego's history with Python. We will rely on pandas dataframes functions such as groupby, loc, count... etc
+In the notebook, we will use a **variety of data manipulation techniques** to explore different aspects of Lego's history with Python. We will rely on pandas dataframes functions such as groupby, loc, count... etc
 
+
+## 23rd project: Bad Passwords and the NIST Guidelines
+This is a simple project where we will check what passwords fail to conform to the National Institute of Standards and Technology password guidelines. We will take a list of user passwords and, using publication **800-63B** with **Python**, we will write code that automatically detects and flags the bad passwords.
+Through a series of guided steps,  we will rely on string manipulation and regular expression skills to build a password verifier!
 
