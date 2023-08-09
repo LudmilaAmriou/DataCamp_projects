@@ -113,3 +113,8 @@ In this notebook, we will analyze the evolution of a very famous open-source pro
 
 For this Project, we need to be familiar with **Pandas DataFrames, especially the read_csv and groupby functions, as well as working with time series data**. 
 
+
+## 22nd project: Exploring the History of Lego
+In the notebook, we will use a *variety of data manipulation techniques** to explore different aspects of Lego's history with Python. We will rely on pandas dataframes functions such as groupby, loc, count... etc
+
+
