@@ -129,3 +129,9 @@ We will analyze data and plot the difficulty so that we can finally extract the 
 
 This project assumes you have used the **dplyr and ggplot2** packages and that you are familiar with the **pipe operator (%>%)**
 
+
+## 25th project: Clustering Heart Disease Patient Data
+In this project, we are going to **cluster anonymized data of patients who have been diagnosed with heart disease using R**. Patients with similar characteristics might respond to the same treatments, and doctors could benefit from learning about the treatment outcomes of patients like those they are treating. The data we are analyzing comes from the V.A. Medical Center in Long Beach, CA.
+
+This project is about **Unsupervised learning**. It works with **K-means and hierarchical clustering algorithms**.
+
