@@ -122,3 +122,10 @@ In the notebook, we will use a **variety of data manipulation techniques** to ex
 This is a simple project where we will check what passwords fail to conform to the National Institute of Standards and Technology password guidelines. We will take a list of user passwords and, using publication **800-63B** with **Python**, we will write code that automatically detects and flags the bad passwords.
 Through a series of guided steps,  we will rely on string manipulation and regular expression skills to build a password verifier!
 
+
+## 24th project: Level Difficulty in Candy Crush Saga
+In this Project, we will get to work with a real Candy Crush dataset and use this data to estimate level difficulty with ***R**. 
+We will analyze data and plot the difficulty so that we can finally extract the estimated error ! 
+
+This project assumes you have used the **dplyr and ggplot2** packages and that you are familiar with the **pipe operator (%>%)**
+
