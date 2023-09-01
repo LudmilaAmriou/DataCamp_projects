@@ -141,3 +141,6 @@ In this notebook, we will process ingredient lists for cosmetics on Sephora focu
 
 Specifically, we will process ingredient lists for 1472 cosmetics on Sephora via word embedding, then **visualize ingredient similarity using a machine learning method called t-SNE and an interactive visualization library called Bokeh**. 
  - **T-distributed Stochastic Neighbor Embedding (t-SNE)** is a nonlinear dimensionality reduction technique that is well-suited for embedding high-dimensional data for visualization in a low-dimensional space of two or three dimensions. Specifically, this technique can reduce the dimension of data while keeping the similarities between the instances. This enables us to make a plot on the coordinate plane, which can be said as vectorizing. All of these cosmetic items in our data will be vectorized into two-dimensional coordinates, and the distances between the points will indicate the similarities between the items.
+ 
+ 
+## 27th project: Give Life: Predict Blood Donations
