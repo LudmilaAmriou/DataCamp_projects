@@ -152,3 +152,10 @@ We will look at the **full model-building process**: from inspecting the dataset
 
 
 ## 28th project: Which Debts Are Worth the Bank's Effort?
+In this project, we play bank data scientist and use regression discontinuity to see which debts are worth collecting with **Python**
+
+
+
+This project lets us apply the skills from **Data Manipulation with pandas, including reading, exploring, filtering, and grouping data courses**.
+
+This project also uses basic statistics. You may wish to take an introduction to statistics course like **Statistical Thinking in Python** or review this tutorial.
